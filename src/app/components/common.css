@@ -1,0 +1,35 @@
+/* styles.css */
+.swiper-button-next, .swiper-button-prev {
+    @apply bg-purple-500 text-white font-bold;
+    width: 25px;
+    height: 25px;
+    top: 50%;
+}
+
+.swiper-button-prev:after, .swiper-button-next:after {
+    font-size: 15px;
+}
+
+.swiper-button-next {
+    right: 0; 
+}
+
+.swiper-button-prev {
+    left: 0; 
+}
+
+/* styles.css or your stylesheet */
+.mySwiper {
+    @apply px-10; /* adjust this value based on the size of your arrows */
+}
+
+.swiper-wrapper {
+
+    height: 253px;
+}
+
+    
+
+.swiper-wrapper{
+    height: 100% !important;
+}
