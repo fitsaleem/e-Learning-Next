@@ -52,7 +52,7 @@ const Reviews = () => {
           className="reviewSwiper"
         >
           <SwiperSlide>
-            {" "}
+           
        
               <div className="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
                 <div className="flex flex-col gap-4 -white-700 p-4">
@@ -64,7 +64,7 @@ const Reviews = () => {
                       </div>
                     </div>
                     <div>
-                      {" "}
+                     
                       <span>Jess Hopkins</span>
                       <div className="flex p-1 gap-1 text-orange-300">
                         <StarFilledIcon />
@@ -88,7 +88,7 @@ const Reviews = () => {
             </div>
           </SwiperSlide>
           <SwiperSlide>
-            {" "}
+           
         
               <div className="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
                 <div className="flex flex-col gap-4 -white-700 p-4">
@@ -100,7 +100,7 @@ const Reviews = () => {
                       </div>
                     </div>
                     <div>
-                      {" "}
+                     
                       <span>Jess Hopkins</span>
                       <div className="flex p-1 gap-1 text-orange-300">
                         <StarFilledIcon />
@@ -124,7 +124,7 @@ const Reviews = () => {
             </div>
           </SwiperSlide>
           <SwiperSlide>
-            {" "}
+           
           
               <div className="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
                 <div className="flex flex-col gap-4 -white-700 p-4">
@@ -136,7 +136,7 @@ const Reviews = () => {
                       </div>
                     </div>
                     <div>
-                      {" "}
+                     
                       <span>Jess Hopkins</span>
                       <div className="flex p-1 gap-1 text-orange-300">
                         <StarFilledIcon />
@@ -160,7 +160,7 @@ const Reviews = () => {
           
           </SwiperSlide>
           <SwiperSlide>
-            {" "}
+           
         
               <div className="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
                 <div className="flex flex-col gap-4 -white-700 p-4">
@@ -172,7 +172,7 @@ const Reviews = () => {
                       </div>
                     </div>
                     <div>
-                      {" "}
+                     
                       <span>Jess Hopkins</span>
                       <div className="flex p-1 gap-1 text-orange-300">
                         <StarFilledIcon />
@@ -196,7 +196,7 @@ const Reviews = () => {
          
           </SwiperSlide>
           <SwiperSlide>
-            {" "}
+           
        
               <div className="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
                 <div className="flex flex-col gap-4 -white-700 p-4">
@@ -208,7 +208,7 @@ const Reviews = () => {
                       </div>
                     </div>
                     <div>
-                      {" "}
+                     
                       <span>Jess Hopkins</span>
                       <div className="flex p-1 gap-1 text-orange-300">
                         <StarFilledIcon />
@@ -232,7 +232,7 @@ const Reviews = () => {
             
           </SwiperSlide>
           <SwiperSlide>
-            {" "}
+           
           
               <div className="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
                 <div className="flex flex-col gap-4 -white-700 p-4">
@@ -244,7 +244,7 @@ const Reviews = () => {
                       </div>
                     </div>
                     <div>
-                      {" "}
+                     
                       <span>Jess Hopkins</span>
                       <div className="flex p-1 gap-1 text-orange-300">
                         <StarFilledIcon />
@@ -268,7 +268,7 @@ const Reviews = () => {
          
           </SwiperSlide>
           <SwiperSlide>
-            {" "}
+           
           
               <div className="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
                 <div className="flex flex-col gap-4 -white-700 p-4">
@@ -280,7 +280,7 @@ const Reviews = () => {
                       </div>
                     </div>
                     <div>
-                      {" "}
+                     
                       <span>Jess Hopkins</span>
                       <div className="flex p-1 gap-1 text-orange-300">
                         <StarFilledIcon />
@@ -304,7 +304,7 @@ const Reviews = () => {
            
           </SwiperSlide>
           <SwiperSlide>
-            {" "}
+           
             <div>
               <div className="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
                 <div className="flex flex-col gap-4 -white-700 p-4">
@@ -316,7 +316,7 @@ const Reviews = () => {
                       </div>
                     </div>
                     <div>
-                      {" "}
+                      
                       <span>Jess Hopkins</span>
                       <div className="flex p-1 gap-1 text-orange-300">
                         <StarFilledIcon />
@@ -340,7 +340,7 @@ const Reviews = () => {
             </div>
           </SwiperSlide>
           <SwiperSlide>
-            {" "}
+           
             <div>
               <div className="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4">
                 <div className="flex flex-col gap-4 -white-700 p-4">
@@ -352,7 +352,7 @@ const Reviews = () => {
                       </div>
                     </div>
                     <div>
-                      {" "}
+                     
                       <span>Jess Hopkins</span>
                       <div className="flex p-1 gap-1 text-orange-300">
                         <StarFilledIcon />
